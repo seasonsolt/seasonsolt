@@ -69,4 +69,3 @@ A few things I believe:
 <sub>「唯快不破」 — nothing beats speed.&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:seasonsolt@gmail.com">seasonsolt@gmail.com</a></sub>
 
 </div>
-
