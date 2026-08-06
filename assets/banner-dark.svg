@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 140" width="1000" height="140" role="img" aria-label="move fast, measure everything">
+  <style>
+    .spin { animation: rot 48s linear infinite; }
+    @keyframes rot { to { transform: rotate(360deg); } }
+    @media (prefers-reduced-motion: reduce) { .spin { animation: none; } }
+    .ring-text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 11px; fill: #9198a1; }
+  </style>
+  <defs>
+    <linearGradient id="fade-l" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3d444d" stop-opacity="0"/>
+      <stop offset="1" stop-color="#3d444d"/>
+    </linearGradient>
+    <linearGradient id="fade-r" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3d444d"/>
+      <stop offset="1" stop-color="#3d444d" stop-opacity="0"/>
+    </linearGradient>
+    <path id="ring-path" d="M 0 -46 A 46 46 0 0 1 0 46 A 46 46 0 0 1 0 -46"/>
+  </defs>
+  <g transform="translate(500 70)">
+    <rect x="-470" y="-0.5" width="394" height="1" fill="url(#fade-l)"/>
+    <rect x="76" y="-0.5" width="394" height="1" fill="url(#fade-r)"/>
+    <circle r="30" fill="none" stroke="#3d444d" stroke-width="1" stroke-dasharray="170 18.5" stroke-linecap="round" transform="rotate(-30)"/>
+    <circle r="2" fill="#f0883e"/>
+    <g class="spin">
+      <text class="ring-text">
+        <textPath href="#ring-path" textLength="289" lengthAdjust="spacing">move fast · measure everything · 唯快不破 ·&#160;</textPath>
+      </text>
+    </g>
+  </g>
+</svg>

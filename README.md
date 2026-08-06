@@ -4,11 +4,18 @@
 
 **Building tools for the era when AI writes the code.**
 
+<sub>工欲善其事，必先利其器。</sub>
+
 <sub>[agents](https://github.com/seasonsolt/sac-agent) · [evals](https://github.com/seasonsolt/edd-skill) · [macOS menu bar apps](https://github.com/seasonsolt/tachi)&nbsp;&nbsp;|&nbsp;&nbsp;e/acc · 加速&nbsp;&nbsp;|&nbsp;&nbsp;@seasonsolt</sub>
 
 </div>
 
-<br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" alt="">
+  </picture>
+</p>
 
 Architect for 10+ years — fintech and e-commerce backends in Java, payment chains that held 10K+ QPS on peak days. Now a technical partner at an AI startup, leading a 10-person team building agent platforms: runtime, MCP hub, skills hub, model gateway. These days I mostly write Python and Swift — agents that code, evals that judge them, and small native apps that keep the whole loop visible from the macOS menu bar.
 
@@ -19,6 +26,15 @@ A few things I believe:
 - **Eval-driven development.** Write the eval before the prompt — benchmark, golden set, LLM-as-judge. The eval *is* the spec.
 - **Ambient tooling beats dashboards.** Agent status belongs in the menu bar, not in another browser tab.
 - **Acceleration is a practice, not a vibe.** Ship the loop, tighten the loop, repeat.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/arc-dark.svg">
+    <img alt="Career arc: 2012 bank core systems in C/C++ → 2015 Java microservices, payments and clearing → 2019 overseas FinTech, cross-border rails → 2025 agent platforms: runtime, evals, MCP → next: agents building agents" src="assets/arc-light.svg" width="880">
+  </picture>
+</p>
+
+<p align="center"><sub>Same discipline the whole way: systems that hold under load. The load is just measured in tokens now.</sub></p>
 
 <br>
 
@@ -33,6 +49,8 @@ A few things I believe:
 | [**ritual-screen**](https://github.com/seasonsolt/ritual-screen) | `TypeScript` | Sacred token-consumption visualization for vibe coding |
 
 <sub>Also: [**sac-agent4j**](https://github.com/seasonsolt/sac-agent4j) — the same agent ideas in Java, for my backend roots.</sub>
+
+<sub>The names: `sac` is Stand Alone Complex, `tachi` a Tachikoma — the think-tanks that synced memories nightly. Agent tooling had a spec in 2002.</sub>
 
 <details>
 <summary>📦 More cargo in the hold</summary>
@@ -55,6 +73,12 @@ A few things I believe:
 
 <br>
 
+## Ask me about
+
+*DDIA*, chapter by chapter — [ddia-skill](https://github.com/seasonsolt/ddia-skill) is me rereading it with an agent · eval philosophy, including where "the eval is the spec" breaks down · writing about all of this in 中文 — I think in two languages and debug in one · the avatar — start with Salinger
+
+<br>
+
 ## Telemetry
 
 <!-- The canonical github-readme-stats.vercel.app deployment is paused (DEPLOYMENT_PAUSED as of 2026-08); using the community mirror below. Swap the host back if the main instance returns. -->
@@ -70,10 +94,20 @@ A few things I believe:
   </picture>
 </p>
 
+<p align="center">
+  <!-- mode=weekly is deliberate: sustained pace over daily box-ticking -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=seasonsolt&mode=weekly&theme=github-dark-blue&hide_border=true&background=00000000">
+    <img src="https://streak-stats.demolab.com/?user=seasonsolt&mode=weekly&hide_border=true&background=00000000" alt="Contribution streak" height="165">
+  </picture>
+</p>
+
 <br>
 
 <div align="center">
 
-<sub>「唯快不破」 — nothing beats speed.&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:seasonsolt@gmail.com">seasonsolt@gmail.com</a></sub>
+<sub>Worth an email: agent platforms in production, eval harness design, or a menu bar app that should exist — <a href="mailto:seasonsolt@gmail.com">seasonsolt@gmail.com</a></sub>
+
+<sub>「唯快不破」 — nothing beats speed.</sub>
 
 </div>
