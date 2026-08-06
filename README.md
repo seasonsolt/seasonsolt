@@ -10,13 +10,13 @@
 
 <br>
 
-Java backend engineer turned AI-tooling builder. These days I mostly write Python and Swift — agents that code, evals that judge them, and small native apps that keep the whole loop visible from the macOS menu bar.
+Architect for 10+ years — fintech and e-commerce backends in Java, payment chains that held 10K+ QPS on peak days. Now a technical partner at an AI startup, leading a 10-person team building agent platforms: runtime, MCP hub, skills hub, model gateway. These days I mostly write Python and Swift — agents that code, evals that judge them, and small native apps that keep the whole loop visible from the macOS menu bar.
 
 > Not "move fast and break things" — **move fast and measure everything.**
 
 A few things I believe:
 
-- **Eval-driven development.** Write the eval before the prompt. The eval *is* the spec.
+- **Eval-driven development.** Write the eval before the prompt — benchmark, golden set, LLM-as-judge. The eval *is* the spec.
 - **Ambient tooling beats dashboards.** Agent status belongs in the menu bar, not in another browser tab.
 - **Acceleration is a practice, not a vibe.** Ship the loop, tighten the loop, repeat.
 
@@ -44,6 +44,14 @@ A few things I believe:
 - [**eacc.ai**](https://github.com/seasonsolt/eacc.ai) — you already know what this one is about
 
 </details>
+
+<br>
+
+## Track record
+
+- Built a vertical-agent platform — agent runtime, MCP hub, skills hub, model gateway — that took AI product delivery from idea to production **2–5× faster**.
+- Shipped a legal-AI document workflow to overseas law firms and funds: **90%+ extraction accuracy** on 200+ page filings at **P99 ≈ 5s/page**.
+- A decade of load-bearing backend work: order/payment/clearing systems, **10K+ QPS** promotion peaks, cross-border payment fees cut **0.5% → 0.2%**.
 
 <br>
 
