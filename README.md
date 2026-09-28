@@ -59,7 +59,7 @@ A few things I believe:
 - [**cqrses-order**](https://github.com/seasonsolt/cqrses-order) — CQRS / Event Sourcing order system demo (the Java roots run deep)
 - [**ddia-skill**](https://github.com/seasonsolt/ddia-skill) — *Designing Data-Intensive Applications* as a study skill
 - [**demo-miniapp**](https://github.com/seasonsolt/demo-miniapp) + [**demo-miniapp-service**](https://github.com/seasonsolt/demo-miniapp-service) — WeChat miniapp E2E testing baseline (Minium + Spring Boot)
-- [**eacc.ai**](https://github.com/seasonsolt/eacc.ai) — you already know what this one is about
+- [**e-acc.ai**](https://github.com/seasonsolt/e-acc.ai) — you already know what this one is about
 
 </details>
 
