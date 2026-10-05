@@ -43,6 +43,7 @@ A few things I believe:
 | project | stack | what it is |
 |:--|:--|:--|
 | [**tachi**](https://github.com/seasonsolt/tachi) | `Swift` | Native macOS menu bar companion for live AI coding sessions, Claude usage & Codex quota |
+| [**lancer**](https://github.com/seasonsolt/lancer) | `Java` | Debug one JVM microservice on your laptop against a shared Kubernetes cluster — only your requests hit your breakpoint |
 | [**skills**](https://github.com/seasonsolt/skills) | `Python` | Verifiable, boundary-aware agent skills for creation, knowledge work and software engineering |
 | [**edd-skill**](https://github.com/seasonsolt/edd-skill) | `Python` | A skill for eval-first AI coding workflows |
 | [**sac-agent**](https://github.com/seasonsolt/sac-agent) | `Python` | Teaching-oriented terminal software-engineer agent — Textual, LangChain, DeepAgent |
