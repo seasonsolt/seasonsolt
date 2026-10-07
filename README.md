@@ -6,7 +6,7 @@
 
 <sub>工欲善其事，必先利其器。</sub>
 
-<sub>[agents](https://github.com/seasonsolt/sac-agent) · [evals](https://github.com/seasonsolt/edd-skill) · [macOS menu bar apps](https://github.com/seasonsolt/tachi)&nbsp;&nbsp;|&nbsp;&nbsp;e/acc · 加速&nbsp;&nbsp;|&nbsp;&nbsp;@seasonsolt</sub>
+<sub>[agents](https://github.com/seasonsolt/sac-agent) · [evals](https://github.com/seasonsolt/edd-skill) · [macOS menu bar apps](https://github.com/seasonsolt/tachi) · [digital twins](https://github.com/seasonsolt/twin)&nbsp;&nbsp;|&nbsp;&nbsp;e/acc · 加速&nbsp;&nbsp;|&nbsp;&nbsp;@seasonsolt</sub>
 
 </div>
 
@@ -42,12 +42,12 @@ A few things I believe:
 
 | project | stack | what it is |
 |:--|:--|:--|
+| [**twin**](https://github.com/seasonsolt/twin) | `Python` | Personal digital twin that answers, speaks and appears like the person — every claim cited from their own words |
 | [**tachi**](https://github.com/seasonsolt/tachi) | `Swift` | Native macOS menu bar companion for live AI coding sessions, Claude usage & Codex quota |
 | [**lancer**](https://github.com/seasonsolt/lancer) | `Java` | Debug one JVM microservice on your laptop against a shared Kubernetes cluster — only your requests hit your breakpoint |
 | [**skills**](https://github.com/seasonsolt/skills) | `Python` | Verifiable, boundary-aware agent skills for creation, knowledge work and software engineering |
 | [**edd-skill**](https://github.com/seasonsolt/edd-skill) | `Python` | A skill for eval-first AI coding workflows |
 | [**sac-agent**](https://github.com/seasonsolt/sac-agent) | `Python` | Teaching-oriented terminal software-engineer agent — Textual, LangChain, DeepAgent |
-| [**ritual-screen**](https://github.com/seasonsolt/ritual-screen) | `TypeScript` | Sacred token-consumption visualization for vibe coding |
 
 <sub>Also: [**sac-agent4j**](https://github.com/seasonsolt/sac-agent4j) — the same agent ideas in Java, for my backend roots.</sub>
 
@@ -61,6 +61,7 @@ A few things I believe:
 - [**cqrses-order**](https://github.com/seasonsolt/cqrses-order) — CQRS / Event Sourcing order system demo (the Java roots run deep)
 - [**ddia-skill**](https://github.com/seasonsolt/ddia-skill) — *Designing Data-Intensive Applications* as a study skill
 - [**e-acc.ai**](https://github.com/seasonsolt/e-acc.ai) — you already know what this one is about ([live](https://e-acc.ai))
+- [**ritual-screen**](https://github.com/seasonsolt/ritual-screen) — sacred token-consumption visualization for vibe coding
 
 </details>
 
