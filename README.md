@@ -43,9 +43,11 @@ A few things I believe:
 | project | stack | what it is |
 |:--|:--|:--|
 | [**twin**](https://github.com/seasonsolt/twin) | `Python` | Personal digital twin that answers, speaks and appears like the person — every claim cited from their own words |
+| [**farrier**](https://github.com/seasonsolt/farrier) | `—` | Runtime for coding agents: workspaces, drivers, out-of-process guardrails and handoff checks |
+| [**writing-skill-trainer**](https://github.com/seasonsolt/writing-skill-trainer) | `Python` | Learn a reusable Writing Skill from your own samples, with blind evaluation |
+| [**skills**](https://github.com/seasonsolt/skills) | `Python` | Verifiable, boundary-aware agent skills for creation, knowledge work and software engineering |
 | [**tachi**](https://github.com/seasonsolt/tachi) | `Swift` | Native macOS menu bar companion for live AI coding sessions, Claude usage & Codex quota |
 | [**lancer**](https://github.com/seasonsolt/lancer) | `Java` | Debug one JVM microservice on your laptop against a shared Kubernetes cluster — only your requests hit your breakpoint |
-| [**skills**](https://github.com/seasonsolt/skills) | `Python` | Verifiable, boundary-aware agent skills for creation, knowledge work and software engineering |
 | [**edd-skill**](https://github.com/seasonsolt/edd-skill) | `Python` | A skill for eval-first AI coding workflows |
 | [**sac-agent**](https://github.com/seasonsolt/sac-agent) | `Python` | Teaching-oriented terminal software-engineer agent — Textual, LangChain, DeepAgent |
 
@@ -60,7 +62,8 @@ A few things I believe:
 - [**agent-lab**](https://github.com/seasonsolt/agent-lab) — FastAPI coding agent with a local Langfuse stack, where the evals get run
 - [**cqrses-order**](https://github.com/seasonsolt/cqrses-order) — CQRS / Event Sourcing order system demo (the Java roots run deep)
 - [**ddia-skill**](https://github.com/seasonsolt/ddia-skill) — *Designing Data-Intensive Applications* as a study skill
-- [**e-acc.ai**](https://github.com/seasonsolt/e-acc.ai) — you already know what this one is about ([live](https://e-acc.ai))
+- [**elsa**](https://github.com/seasonsolt/elsa) — Elsa games for my 4-year-old daughter
+- [**news-e-accs**](https://github.com/seasonsolt/news-e-accs) — e/acc 加速日报 ([live](https://news.e-accs.com))
 - [**ritual-screen**](https://github.com/seasonsolt/ritual-screen) — sacred token-consumption visualization for vibe coding
 
 </details>
